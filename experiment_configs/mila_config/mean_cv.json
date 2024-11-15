@@ -1,0 +1,8 @@
+{
+    "cfg_dir": "/nasa/shared_homes/loic/deliveries/model_example/experiment_configs/mila_config/weighted_aggregator/75-25",
+    "seed": 42,
+    "num_folds": 10,
+    "output_path": "results_tmp",
+    "log_level": "DEBUG",
+    "save_results": true
+}

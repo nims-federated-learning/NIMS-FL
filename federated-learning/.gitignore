@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.test
+
+/data/*
+!/data/configs
+!/data/sessions
+sandbox/
+scripts/
+build/
+dist/
+.vscode/
+.tox/
+certificates/
+logs/
+input/
+cache/
